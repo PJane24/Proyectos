@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Podología</title>
+    <link rel="stylesheet" type="text/css" href="./Css/style.css">
+</head>
+<body>
+     <!--Cabecera de la pagina-->
+    <header>
+        <b><h1>Podología</h1></b>
+    </header>
+
+
+    <div id="container">
+        <!--Barra de paginas, bu+squeda-->
+        <nav>
+            <ul>
+                <li><a href="inicio.html">Inicio</a></li>
+                <li><a href="nosotros.html">Nosotros</a></li>
+                <li><a href="servicios.html">Servicios</a></li>
+                <li><a href="plantillas.html">Plantillas</a></li>
+                <li><a href="blog.html">Blog</a></li>
+                <li><a href="citas.html">Citas</a></li>
+            </ul>
+        </nav>
+
+        <!-- Contenido de la página -->
+        <div id="content">
+                <h1>Esto es una prueba para ver como queda</h1><br>
+                <p>El Pie es una de las partes del cuerpo que más abuso sufre y menos cuidamos;
+                     soporta el peso del cuerpo, nos ayuda a caminar, bailar, deporte y sólo nos 
+                     acordamos de él cuando nos duele. Los pies son fuertes y flexibles, con una 
+                     estructura de 26 huesos, 107 ligamentos, 33 articulaciones y 20 músculos.
+
+                    El profesional sanitario especialista en el tratamiento y cuidado integral del 
+                    pie es el Podólogo/a.
+                    
+                    El podólogo/a es el profesional sanitario universitario con los conocimientos, 
+                    habilidades y aptitudes para realizar las actividades dirigidas a la prevención,
+                     al diagnóstico y tratamiento de las afecciones y deformidades de los pies, 
+                     mediante procedimientos terapéuticos podológicos. Actúa de forma autónoma o 
+                     dentro de un entorno pluri o multidisciplinar, con una identidad bien definida.</p>
+            <!-- Para hacer una sección de una página -->
+        </div>
+    </div>
+
+    <!-- Creditos -->
+    <footer>Contacto de referencia: 692 802 562</footer>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <p>Hola buenas tardes esto es una prueba para el Inicio</p>
+</body>
+</html>
+
+
+
+
